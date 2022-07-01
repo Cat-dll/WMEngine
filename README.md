@@ -4,8 +4,7 @@ This game engine is designed to be your **ultimate** tool for 2D game developmen
 It's created in **C11** with no external dependencies. *(Except the standard C library)*
 
 ### ***Supported rendering API***
-  -   OpenGL
-  -   OpenGL
+  -   OpenGL 4.0+
 
 ### ***Supported platform***
   - Windows (Win32)

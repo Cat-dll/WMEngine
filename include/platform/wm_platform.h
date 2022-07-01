@@ -23,8 +23,7 @@
 #endif
 
 
-typedef struct wm_native_window_t WmNativeWindow;
-typedef struct wm_window_config_t WmWindowConfig;
+
 
 typedef struct wm_platform_t WmPlatform;
 typedef struct wm_platform_data_t WmPlatformData;
